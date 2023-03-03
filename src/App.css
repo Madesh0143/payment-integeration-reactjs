@@ -1,0 +1,26 @@
+.img {
+  margin-top: 7pc;
+  width: 800px;
+  margin-left: 1pc;
+  height: 100px
+}
+.form__div {
+  margin-left: 52rem;
+}
+input {
+  margin-bottom: 5px;
+  margin-top: 15px;
+  margin-left: 170px;
+  border-radius: 5px;
+  border: red;
+  border: none;
+}
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 25px;
+  font-weight: 700;
+  font-size: 25px;
+}
+.btn {
+  margin-left: 240px;
+}
